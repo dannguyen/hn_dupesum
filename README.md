@@ -9,7 +9,7 @@ This obviously is a bare-bones tool, without even proper configuration flags, me
 
 A typical [summary-of-dupes comment](https://news.ycombinator.com/item?id=7796382) looks like this: 
 
-``` markdown
+<blockquote>
 In case you're wondering why this obviously brilliant article doesn't get much discussion, or many votes, some people here have seen it before. Here are some of the previous submissions:
 https://hn.algolia.com/?q=brief+incomplete#!/story/forever/p...
 Of course, it may again get lots of discussion and lots of up-votes. We'll see.
@@ -31,11 +31,11 @@ https://news.ycombinator.com/item?id=1475826
 https://news.ycombinator.com/item?id=1327746
 https://news.ycombinator.com/item?id=1310127
 https://news.ycombinator.com/item?id=599164
-```
+</blockquote>
 
 The `hn_dupesum` tool merely automates the searching of the story title and producing the list of dupes, including top comments in the previous discussions:
 
-```
+<blockquote>
 # ============================
 # Stories containing the title of "a brief history of programming" received:
 # - At least 3 submissions from 2009-05-08 to 2013-05-12, i.e. ~614 days between each submission
@@ -51,8 +51,8 @@ The `hn_dupesum` tool merely automates the searching of the story title and prod
 # -  bitops [27 points]: *Only two minor quibbles: 1) did not mention Clojure. 2) broke the amusing narrative a bit in the middle by including a true story (Perl). Really funny otherwise.* [https://news.ycombinator.com/item?id=3504001]
 # -  f4stjack [26 points]: *"1996 - James Gosling invents Java. Java is a relatively verbose, garbage collected, class based, statically typed, single dispatch, object oriented language with single implementation inheritance and multiple interface inheritance. Sun loudly heralds Java's novelty. 2001 - Anders Hejlsberg invents C#. C# is a relatively verbose, garbage collected, class based, statically typed, single dispatch, object oriented language with single implementation inheritance and multiple interface inheritance. ...* [https://news.ycombinator.com/item?id=3503969]
 # -  perfunctory [24 points]: *My favourite is actually: 1972 - Dennis Ritchie invents a powerful gun that shoots both forward and backward simultaneously. Not satisfied with the number of deaths and permanent maimings from that invention he invents C and Unix.* [https://news.ycombinator.com/item?id=3504067]
-```
 
+</blockquote>
 
 
 
