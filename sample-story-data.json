@@ -1,0 +1,1205 @@
+{
+  "hits": [
+    {
+      "created_at": "2012-01-24T07:53:20.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "author": "DanielRibeiro",
+      "points": 389,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 45,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1327391600,
+      "_tags": [
+        "story",
+        "author_DanielRibeiro",
+        "story_3503896"
+      ],
+      "objectID": "3503896",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em>",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.com/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "DanielRibeiro",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2009-05-08T04:10:01.000Z",
+      "title": "A brief, incomplete and mostly wrong history of programming languages",
+      "url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "author": "toddc",
+      "points": 299,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 14,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1241755801,
+      "_tags": [
+        "story",
+        "author_toddc",
+        "story_599164"
+      ],
+      "objectID": "599164",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>brief</em>, <em>incomplete</em> <em>and</em> <em>mostly</em> <em>wrong</em> <em>history</em> <em>of</em> <em>programming</em> <em>languages</em>",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.com/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "toddc",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-05-12T21:01:53.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)",
+      "url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "author": "ldubinets",
+      "points": 209,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 33,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1368392513,
+      "_tags": [
+        "story",
+        "author_ldubinets",
+        "story_5695816"
+      ],
+      "objectID": "5695816",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em> (2009)",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.com/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "ldubinets",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2010-05-07T14:58:59.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "author": "donw",
+      "points": 160,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 13,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1273244339,
+      "_tags": [
+        "story",
+        "author_donw",
+        "story_1327746"
+      ],
+      "objectID": "1327746",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em>",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.com/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "donw",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-12-23T11:33:55.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)",
+      "url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "author": "ciderpunx",
+      "points": 68,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 12,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1387798435,
+      "_tags": [
+        "story",
+        "author_ciderpunx",
+        "story_6953863"
+      ],
+      "objectID": "6953863",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em> (2009)",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.com/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "ciderpunx",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-10-06T14:46:28.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)",
+      "url": "http://james-iry.blogspot.fr/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "author": "Systemic33",
+      "points": 27,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 8,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1381070788,
+      "_tags": [
+        "story",
+        "author_Systemic33",
+        "story_6504217"
+      ],
+      "objectID": "6504217",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em> (2009)",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.fr/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "Systemic33",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-06-01T16:36:50.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "url": "http://james-iry.blogspot.se/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "author": "pbjorklund",
+      "points": 22,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 5,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "created_at_i": 1370104610,
+      "_tags": [
+        "story",
+        "author_pbjorklund",
+        "story_5804668"
+      ],
+      "objectID": "5804668",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em>",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.se/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "pbjorklund",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2014-05-25T11:59:45.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "url": "http://james-iry.blogspot.de/2009/05/brief-incomplete-and-mostly-wrong.html?m=1",
+      "author": "jownwayne",
+      "points": 7,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 3,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1401019185,
+      "_tags": [
+        "story",
+        "author_jownwayne",
+        "story_7796142"
+      ],
+      "objectID": "7796142",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em>",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.de/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html?m=1",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "jownwayne",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-05-18T13:34:10.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "url": "http://james-iry.blogspot.dk/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "author": "Ashuu",
+      "points": 6,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 2,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1368884050,
+      "_tags": [
+        "story",
+        "author_Ashuu",
+        "story_5728844"
+      ],
+      "objectID": "5728844",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em>",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.dk/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "Ashuu",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2010-05-01T04:47:27.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "url": "http://www.cvaieee.org/html/humor/programming_history.html",
+      "author": "jlangenauer",
+      "points": 6,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1272689247,
+      "_tags": [
+        "story",
+        "author_jlangenauer",
+        "story_1310127"
+      ],
+      "objectID": "1310127",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em>",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://www.cvaieee.org/html/humor/<em>programming</em>_<em>history</em>.html",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "history",
+            "programming"
+          ]
+        },
+        "author": {
+          "value": "jlangenauer",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2010-06-30T19:09:54.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "author": "jpablo",
+      "points": 5,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1277924994,
+      "_tags": [
+        "story",
+        "author_jpablo",
+        "story_1475826"
+      ],
+      "objectID": "1475826",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em>",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.com/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "jpablo",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2014-05-25T14:03:10.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html?m=1",
+      "author": "omilu",
+      "points": 2,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1401026590,
+      "_tags": [
+        "story",
+        "author_omilu",
+        "story_7796344"
+      ],
+      "objectID": "7796344",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em>",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.com/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html?m=1",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "omilu",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-03-14T21:59:44.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html#",
+      "author": "epenn",
+      "points": 2,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1363298384,
+      "_tags": [
+        "story",
+        "author_epenn",
+        "story_5377944"
+      ],
+      "objectID": "5377944",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em>",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.com/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html#",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "epenn",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T23:42:42.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html?",
+      "author": "zeppelin_7",
+      "points": 2,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1327448562,
+      "_tags": [
+        "story",
+        "author_zeppelin_7",
+        "story_3507566"
+      ],
+      "objectID": "3507566",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em>",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.com/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html?",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "zeppelin_7",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-05-18T13:34:05.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "url": "http://james-iry.blogspot.de/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "author": "Jonhoo",
+      "points": 1,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 2,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1368884045,
+      "_tags": [
+        "story",
+        "author_Jonhoo",
+        "story_5728843"
+      ],
+      "objectID": "5728843",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em>",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.de/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "Jonhoo",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2014-02-19T12:24:25.000Z",
+      "title": " A Brief, Incomplete, and Mostly Wrong History of Programming Languages ",
+      "url": "http://james-iry.blogspot.se/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "author": "tuix",
+      "points": 1,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1392812665,
+      "_tags": [
+        "story",
+        "author_tuix",
+        "story_7263243"
+      ],
+      "objectID": "7263243",
+      "_highlightResult": {
+        "title": {
+          "value": " <em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em> ",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.se/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "tuix",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-08-18T21:43:59.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "url": "http://james-iry.blogspot.co.uk/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "author": "iambot",
+      "points": 1,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1376862239,
+      "_tags": [
+        "story",
+        "author_iambot",
+        "story_6234361"
+      ],
+      "objectID": "6234361",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em>",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.co.uk/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "iambot",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-01-28T16:14:06.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html?l?",
+      "author": "simonsarris",
+      "points": 1,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1359389646,
+      "_tags": [
+        "story",
+        "author_simonsarris",
+        "story_5129062"
+      ],
+      "objectID": "5129062",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em>",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.com/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html?l?",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "simonsarris",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-09-28T16:49:24.000Z",
+      "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html?",
+      "author": "ninetax",
+      "points": 1,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1348850964,
+      "_tags": [
+        "story",
+        "author_ninetax",
+        "story_4586462"
+      ],
+      "objectID": "4586462",
+      "_highlightResult": {
+        "title": {
+          "value": "<em>A</em> <em>Brief</em>, <em>Incomplete</em>, <em>and</em> <em>Mostly</em> <em>Wrong</em> <em>History</em> <em>of</em> <em>Programming</em> <em>Languages</em>",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        },
+        "url": {
+          "value": "http://james-iry.blogspot.com/2009/05/<em>brief</em>-<em>incomplete</em>-<em>and</em>-<em>mostly</em>-<em>wrong</em>.html?",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong"
+          ]
+        },
+        "author": {
+          "value": "ninetax",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T15:42:33.000Z",
+      "title": "Ask HN: Would it make sense to have a \"Wall of Fame\" section on HN?",
+      "url": "",
+      "author": "cs702",
+      "points": 22,
+      "story_text": "Some links get posted on HN more than once, yet each time they manage to gather enough upvotes to rise to the front page.<p>The latest example is \"A brief, incomplete and mostly wrong history of programming languages,\" which has been submitted at least three times to HN, on each occasion gathering hundreds of upvotes:<p>http://news.ycombinator.com/item?id=599164<p>http://news.ycombinator.com/item?id=1327746<p>http://news.ycombinator.com/item?id=3503896<p>Would it make sense to add a \"Wall of Fame\" section on HN to which we can nominate submissions that deserve a special, permanent link somewhere on the site?",
+      "comment_text": null,
+      "num_comments": 4,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1327419753,
+      "_tags": [
+        "story",
+        "author_cs702",
+        "story_3505201",
+        "ask_hn"
+      ],
+      "objectID": "3505201",
+      "_highlightResult": {
+        "title": {
+          "value": "Ask HN: Would it make sense to have <em>a</em> \"Wall <em>of</em> Fame\" section on HN?",
+          "matchLevel": "partial",
+          "matchedWords": [
+            "a",
+            "of"
+          ]
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "cs702",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "Some links get posted on HN more than once, yet each time they manage to gather enough upvotes to rise to the front page.<p>The latest example is \"<em>A</em> <em>brief</em>, <em>incomplete</em> <em>and</em> <em>mostly</em> <em>wrong</em> <em>history</em> <em>of</em> <em>programming</em> <em>languages</em>,\" which has been submitted at least three times to HN, on each occasion gathering hundreds <em>of</em> upvotes:<p>http://news.ycombinator.com/item?id=599164<p>http://news.ycombinator.com/item?id=1327746<p>http://news.ycombinator.com/item?id=3503896<p>Would it make sense to add <em>a</em> \"Wall <em>of</em> Fame\" section on HN to which we can nominate submissions that deserve <em>a</em> special, permanent link somewhere on the site?",
+          "matchLevel": "full",
+          "matchedWords": [
+            "a",
+            "brief",
+            "incomplete",
+            "and",
+            "mostly",
+            "wrong",
+            "history",
+            "of",
+            "programming",
+            "languages"
+          ]
+        }
+      }
+    }
+  ],
+  "nbHits": 21,
+  "page": 0,
+  "nbPages": 2,
+  "hitsPerPage": 20,
+  "processingTimeMS": 118,
+  "query": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+  "params": "advancedSyntax=true&analytics=false&query=A+Brief%2C+Incomplete%2C+and+Mostly+Wrong+History+of+Programming+Languages&tags=story"
+}
