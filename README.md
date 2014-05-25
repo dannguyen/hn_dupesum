@@ -15,12 +15,12 @@ Just download [hn_dupesum.rb]
 
 Pass in a single argument, ideally, the title of a submission:
 
-`$ ruby hn_dupesum.rb "a brief history of programming languages"`
+    $ ruby hn_dupesum.rb "a brief history of programming languages"
 
 ...or if you prefer to `chmod` it:
 
-`$ chmod +x hn_dupesum.rb`
-`$ ./hn_dupesum.rb "a brief history of programming languages"`
+    $ chmod +x hn_dupesum.rb
+    $ ./hn_dupesum.rb "a brief history of programming languages"`
 
 Currently, it's just a quickie hack and doesn't support any command-line flags like a proper UNIX tool.
 
@@ -69,3 +69,10 @@ This produces a list that is meant for HN's limited formatting options. The use-
 
 
 ### How it works
+
+It simply uses the [Algolia search API that powers HN's official search](https://hn.algolia.com/api). First, it does a "relavance-priority" search for the story title terms. Then for each submission, it looks for the top-upvoted comments.
+
+Note that Algolia has a rate-limit (10,000 per hour per IP) and my script doesn't have any command-line options to configure what is collected. By default (i.e. because I'm lazy), my script just gets the first page of matched results and then gets the first page of comments...so if a query brings back 20 submissions, you'll be making as many as 21 calls to the API (1 for the story search, 20 for each of the story submissions' comments page). Obviously you can just edit the script to your liking.
+
+Feel free to fork and make it a real command-line tool. Comments can be tweeted to [@dancow](https://twitter.com/dancow)
+
