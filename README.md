@@ -70,7 +70,14 @@ This produces a list that is meant for HN's limited formatting options. The use-
 
 ### How it works
 
-It simply uses the [Algolia search API that powers HN's official search](https://hn.algolia.com/api). First, it does a "relavance-priority" search for the story title terms. Then for each submission, it looks for the top-upvoted comments.
+It simply uses the [Algolia search API that powers HN's official search](https://hn.algolia.com/api). First, it does a "relavance-priority" search for the story title terms:
+
+https://hn.algolia.com/api/v1/search?tags=story&query=a%20brief%20history%20of%20programming
+
+Then for each submission, it looks for the top-upvoted comments:
+
+Fetching top comments via https://hn.algolia.com/api/v1/search?tags=comment,story_3503896 
+
 
 Note that Algolia has a rate-limit (10,000 per hour per IP) and my script doesn't have any command-line options to configure what is collected. By default (i.e. because I'm lazy), my script just gets the first page of matched results and then gets the first page of comments...so if a query brings back 20 submissions, you'll be making as many as 21 calls to the API (1 for the story search, 20 for each of the story submissions' comments page). Obviously you can just edit the script to your liking.
 
