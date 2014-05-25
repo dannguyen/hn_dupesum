@@ -5,6 +5,8 @@ A quickie Ruby script to generate a list of HackerNews dupe submissions.
 
 This was inspired by [user ColinWright's diligence in pointing out duped-and-previously-discussed discussions](https://news.ycombinator.com/item?id=7796382). Dupes aren't necessarily bad, so this tool's intended use is to quickly find possible previous submissions and produce a HN-friendly aggregated list, so that readers can see what's been previously said.
 
+This obviously is a bare-bones tool, without even proper configuration flags, meant to serve as a simple helper for anyone wanting to list past HN discussions. It wouldn't be very difficult to do something like filter the results list for similar URLs (the [HN-Algolia search API](https://hn.algolia.com/api) only lets you query by search term) so that only true-dupes are selected.
+
 ## Installation
 
 I wrote this on my Ruby 2.0 machine but it doesn't use anything outside of Ruby's stdlib. I had hoped to do it via bash script only but my shell skills are weak.
