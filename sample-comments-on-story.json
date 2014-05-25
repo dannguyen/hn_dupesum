@@ -1,0 +1,1071 @@
+{
+  "hits": [
+    {
+      "created_at": "2012-01-24T08:51:50.000Z",
+      "title": "",
+      "url": "",
+      "author": "bitops",
+      "points": 27,
+      "story_text": null,
+      "comment_text": "Only two minor quibbles:<p>1) did not mention Clojure.<p>2) broke the amusing narrative a bit in the middle by including a true story (Perl).<p>Really funny otherwise.",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3503896,
+      "created_at_i": 1327395110,
+      "_tags": [
+        "comment",
+        "author_bitops",
+        "story_3503896"
+      ],
+      "objectID": "3504001",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "bitops",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Only two minor quibbles:<p>1) did not mention Clojure.<p>2) broke the amusing narrative a bit in the middle by including a true story (Perl).<p>Really funny otherwise.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T08:38:53.000Z",
+      "title": "",
+      "url": "",
+      "author": "f4stjack",
+      "points": 26,
+      "story_text": null,
+      "comment_text": "\"1996 - James Gosling invents Java. Java is a relatively verbose, garbage collected, class based, statically typed, single dispatch, object oriented language with single implementation inheritance and multiple interface inheritance. Sun loudly heralds Java's novelty.<p>2001 - Anders Hejlsberg invents C#. C# is a relatively verbose, garbage collected, class based, statically typed, single dispatch, object oriented language with single implementation inheritance and multiple interface inheritance. Microsoft loudly heralds C#'s novelty.\"<p>Hands down epic definition win.",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3503896,
+      "created_at_i": 1327394333,
+      "_tags": [
+        "comment",
+        "author_f4stjack",
+        "story_3503896"
+      ],
+      "objectID": "3503969",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "f4stjack",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "\"1996 - James Gosling invents Java. Java is a relatively verbose, garbage collected, class based, statically typed, single dispatch, object oriented language with single implementation inheritance and multiple interface inheritance. Sun loudly heralds Java's novelty.<p>2001 - Anders Hejlsberg invents C#. C# is a relatively verbose, garbage collected, class based, statically typed, single dispatch, object oriented language with single implementation inheritance and multiple interface inheritance. Microsoft loudly heralds C#'s novelty.\"<p>Hands down epic definition win.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T09:24:26.000Z",
+      "title": "",
+      "url": "",
+      "author": "perfunctory",
+      "points": 24,
+      "story_text": null,
+      "comment_text": "My favourite is actually:<p><pre><code>    1972 - Dennis Ritchie invents a powerful gun that shoots\n    both forward and backward simultaneously. Not satisfied\n    with the number of deaths and permanent maimings from\n    that invention he invents C and Unix.</code></pre>",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3503969,
+      "created_at_i": 1327397066,
+      "_tags": [
+        "comment",
+        "author_perfunctory",
+        "story_3503896"
+      ],
+      "objectID": "3504067",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "perfunctory",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "My favourite is actually:<p><pre><code>    1972 - Dennis Ritchie invents a powerful gun that shoots\n    both forward and backward simultaneously. Not satisfied\n    with the number of deaths and permanent maimings from\n    that invention he invents C and Unix.</code></pre>",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T08:55:39.000Z",
+      "title": "",
+      "url": "",
+      "author": "skrebbel",
+      "points": 23,
+      "story_text": null,
+      "comment_text": "I hate the factual inaccuracies in this post.<p>For example, it says that Rasmus Lerdorf got the idea for PHP at a neighbourhood Italian restaurant, but Qeqertarsuaq has no Italian restaurants.",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3503896,
+      "created_at_i": 1327395339,
+      "_tags": [
+        "comment",
+        "author_skrebbel",
+        "story_3503896"
+      ],
+      "objectID": "3504013",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "skrebbel",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "I hate the factual inaccuracies in this post.<p>For example, it says that Rasmus Lerdorf got the idea for PHP at a neighbourhood Italian restaurant, but Qeqertarsuaq has no Italian restaurants.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T15:33:42.000Z",
+      "title": "",
+      "url": "",
+      "author": "cs702",
+      "points": 14,
+      "story_text": null,
+      "comment_text": "I'd go further: why not have a \"Wall of Fame\" section on HN to which we can nominate submissions that deserve a permanent link somewhere?<p>UPDATE: I've submitted this comment as a question here: <a href=\"http://news.ycombinator.com/item?id=3505201\" rel=\"nofollow\">http://news.ycombinator.com/item?id=3505201</a>",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3504197,
+      "created_at_i": 1327419222,
+      "_tags": [
+        "comment",
+        "author_cs702",
+        "story_3503896"
+      ],
+      "objectID": "3505159",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "cs702",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "I'd go further: why not have a \"Wall of Fame\" section on HN to which we can nominate submissions that deserve a permanent link somewhere?<p>UPDATE: I've submitted this comment as a question here: <a href=\"http://news.ycombinator.com/item?id=3505201\" rel=\"nofollow\">http://news.ycombinator.com/item?id=3505201</a>",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T08:55:23.000Z",
+      "title": "",
+      "url": "",
+      "author": "chalst",
+      "points": 14,
+      "story_text": null,
+      "comment_text": "We've had this story here several times before, most notably:<p><a href=\"http://news.ycombinator.com/item?id=599164\" rel=\"nofollow\">http://news.ycombinator.com/item?id=599164</a><p>and<p><a href=\"http://news.ycombinator.com/item?id=1327746\" rel=\"nofollow\">http://news.ycombinator.com/item?id=1327746</a>",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3503896,
+      "created_at_i": 1327395323,
+      "_tags": [
+        "comment",
+        "author_chalst",
+        "story_3503896"
+      ],
+      "objectID": "3504010",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "chalst",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "We've had this story here several times before, most notably:<p><a href=\"http://news.ycombinator.com/item?id=599164\" rel=\"nofollow\">http://news.ycombinator.com/item?id=599164</a><p>and<p><a href=\"http://news.ycombinator.com/item?id=1327746\" rel=\"nofollow\">http://news.ycombinator.com/item?id=1327746</a>",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T11:21:41.000Z",
+      "title": "",
+      "url": "",
+      "author": "antirez",
+      "points": 13,
+      "story_text": null,
+      "comment_text": "a rare instance of programming humor that is actually fun",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3503896,
+      "created_at_i": 1327404101,
+      "_tags": [
+        "comment",
+        "author_antirez",
+        "story_3503896"
+      ],
+      "objectID": "3504281",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "antirez",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "a rare instance of programming humor that is actually fun",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T08:56:19.000Z",
+      "title": "",
+      "url": "",
+      "author": "vvnraman",
+      "points": 12,
+      "story_text": null,
+      "comment_text": "This has to be the best line - <i>It is a syntax error to write FORTRAN while not wearing a blue tie.</i>",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3503896,
+      "created_at_i": 1327395379,
+      "_tags": [
+        "comment",
+        "author_vvnraman",
+        "story_3503896"
+      ],
+      "objectID": "3504016",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "vvnraman",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "This has to be the best line - <i>It is a syntax error to write FORTRAN while not wearing a blue tie.</i>",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T10:38:08.000Z",
+      "title": "",
+      "url": "",
+      "author": "mafro",
+      "points": 10,
+      "story_text": null,
+      "comment_text": "Absolutely brilliant. As a relative HN newbie, this really should posted about once a year.<p>\"Later still, in an effort to cash in on the popularity of skin diseases the language is renamed ECMAScript.\"",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3503896,
+      "created_at_i": 1327401488,
+      "_tags": [
+        "comment",
+        "author_mafro",
+        "story_3503896"
+      ],
+      "objectID": "3504197",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mafro",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Absolutely brilliant. As a relative HN newbie, this really should posted about once a year.<p>\"Later still, in an effort to cash in on the popularity of skin diseases the language is renamed ECMAScript.\"",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T10:26:00.000Z",
+      "title": "",
+      "url": "",
+      "author": "buff-a",
+      "points": 9,
+      "story_text": null,
+      "comment_text": "<p><pre><code>  10 PRINT \"&#60;rude message here&#62;\"\n  20 GOTO 10\n</code></pre>\nThey used to sell computers in stores that you could walk up to and program. BASIC was the command prompt for some computers. The above was the inevitable result.",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3504121,
+      "created_at_i": 1327400760,
+      "_tags": [
+        "comment",
+        "author_buff-a",
+        "story_3503896"
+      ],
+      "objectID": "3504176",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "buff-a",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "<p><pre><code>  10 PRINT \"&#60;rude message here&#62;\"\n  20 GOTO 10\n</code></pre>\nThey used to sell computers in stores that you could walk up to and program. BASIC was the command prompt for some computers. The above was the inevitable result.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T09:03:54.000Z",
+      "title": "",
+      "url": "",
+      "author": "tintin",
+      "points": 8,
+      "story_text": null,
+      "comment_text": "<i>\"1965 - Kemeny and Kurtz go to 1964.\"</i> gave me a big smile...",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3504016,
+      "created_at_i": 1327395834,
+      "_tags": [
+        "comment",
+        "author_tintin",
+        "story_3503896"
+      ],
+      "objectID": "3504033",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "tintin",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "<i>\"1965 - Kemeny and Kurtz go to 1964.\"</i> gave me a big smile...",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T12:31:26.000Z",
+      "title": "",
+      "url": "",
+      "author": "bad_user",
+      "points": 7,
+      "story_text": null,
+      "comment_text": "Yeah, it also says that Larry Wall came up with Perl by falling asleep and hitting his head on the keyboard, when in fact Perl was created through a genetic algorithm -- that's why it takes so long for Perl 6 to happen, because those specs they call Synopses keep changing and therefore the fitness metric is not stable.",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3504013,
+      "created_at_i": 1327408286,
+      "_tags": [
+        "comment",
+        "author_bad_user",
+        "story_3503896"
+      ],
+      "objectID": "3504429",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "bad_user",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Yeah, it also says that Larry Wall came up with Perl by falling asleep and hitting his head on the keyboard, when in fact Perl was created through a genetic algorithm -- that's why it takes so long for Perl 6 to happen, because those specs they call Synopses keep changing and therefore the fitness metric is not stable.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T10:02:39.000Z",
+      "title": "",
+      "url": "",
+      "author": "riffraff",
+      "points": 7,
+      "story_text": null,
+      "comment_text": "reference to GOTO in basic",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3504121,
+      "created_at_i": 1327399359,
+      "_tags": [
+        "comment",
+        "author_riffraff",
+        "story_3503896"
+      ],
+      "objectID": "3504136",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "riffraff",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "reference to GOTO in basic",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T22:13:32.000Z",
+      "title": "",
+      "url": "",
+      "author": "laconian",
+      "points": 6,
+      "story_text": null,
+      "comment_text": "Coffeescript is just a tacit admission that Javascript is capital-N Nasty.",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3505979,
+      "created_at_i": 1327443212,
+      "_tags": [
+        "comment",
+        "author_laconian",
+        "story_3503896"
+      ],
+      "objectID": "3507156",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "laconian",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Coffeescript is just a tacit admission that Javascript is capital-N Nasty.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T15:14:15.000Z",
+      "title": "",
+      "url": "",
+      "author": "warfangle",
+      "points": 5,
+      "story_text": null,
+      "comment_text": "This was actually a remix[1] and nod to the legendary guide, \"Shooting yourself in the foot in various programming languages,\"[2] which has slowly evolved over the course of usenet, gopher, and websockets.<p>I'm convinced that this list will one day be fed recursively into a prolog console and become skynet.<p>1. <a href=\"http://blip.tv/goodiebag/everything-is-a-remix-part-1-4136010\" rel=\"nofollow\">http://blip.tv/goodiebag/everything-is-a-remix-part-1-413601...</a>\n2. <a href=\"http://www.toodarkpark.org/computers/humor/shoot-self-in-foot.html\" rel=\"nofollow\">http://www.toodarkpark.org/computers/humor/shoot-self-in-foo...</a>",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3504067,
+      "created_at_i": 1327418055,
+      "_tags": [
+        "comment",
+        "author_warfangle",
+        "story_3503896"
+      ],
+      "objectID": "3505067",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "warfangle",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "This was actually a remix[1] and nod to the legendary guide, \"Shooting yourself in the foot in various programming languages,\"[2] which has slowly evolved over the course of usenet, gopher, and websockets.<p>I'm convinced that this list will one day be fed recursively into a prolog console and become skynet.<p>1. <a href=\"http://blip.tv/goodiebag/everything-is-a-remix-part-1-4136010\" rel=\"nofollow\">http://blip.tv/goodiebag/everything-is-a-remix-part-1-413601...</a>\n2. <a href=\"http://www.toodarkpark.org/computers/humor/shoot-self-in-foot.html\" rel=\"nofollow\">http://www.toodarkpark.org/computers/humor/shoot-self-in-foo...</a>",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T12:35:06.000Z",
+      "title": "",
+      "url": "",
+      "author": "bad_user",
+      "points": 5,
+      "story_text": null,
+      "comment_text": "<i>Haskell gets some resistance due to the complexity of using monads to control side effects. Wadler tries to appease critics by explaining that \"a monad is a monoid in the category of endofunctors, what's the problem?\"</i>",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3503969,
+      "created_at_i": 1327408506,
+      "_tags": [
+        "comment",
+        "author_bad_user",
+        "story_3503896"
+      ],
+      "objectID": "3504440",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "bad_user",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "<i>Haskell gets some resistance due to the complexity of using monads to control side effects. Wadler tries to appease critics by explaining that \"a monad is a monoid in the category of endofunctors, what's the problem?\"</i>",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T08:41:50.000Z",
+      "title": "",
+      "url": "",
+      "author": "DanielRibeiro",
+      "points": 5,
+      "story_text": null,
+      "comment_text": "Nice one. I really liked this one though:<p><i>1958 - John McCarthy and Paul Graham invent LISP. Due to high costs caused by a post-war depletion of the strategic parentheses reserve LISP never becomes popular[1]. In spite of its lack of popularity, LISP (now \"Lisp\" or sometimes \"Arc\") remains an influential language in \"key algorithmic techniques such as recursion and condescension\"[2].<p>[1] Fortunately for computer science the supply of curly braces and angle brackets remains high.<p>[2] Catch as catch can - Verity Stob:</i> <a href=\"http://www.theregister.co.uk/2006/01/11/exception_handling/\" rel=\"nofollow\">http://www.theregister.co.uk/2006/01/11/exception_handling/</a>",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3503969,
+      "created_at_i": 1327394510,
+      "_tags": [
+        "comment",
+        "author_DanielRibeiro",
+        "story_3503896"
+      ],
+      "objectID": "3503976",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "DanielRibeiro",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "Nice one. I really liked this one though:<p><i>1958 - John McCarthy and Paul Graham invent LISP. Due to high costs caused by a post-war depletion of the strategic parentheses reserve LISP never becomes popular[1]. In spite of its lack of popularity, LISP (now \"Lisp\" or sometimes \"Arc\") remains an influential language in \"key algorithmic techniques such as recursion and condescension\"[2].<p>[1] Fortunately for computer science the supply of curly braces and angle brackets remains high.<p>[2] Catch as catch can - Verity Stob:</i> <a href=\"http://www.theregister.co.uk/2006/01/11/exception_handling/\" rel=\"nofollow\">http://www.theregister.co.uk/2006/01/11/exception_handling/</a>",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-25T05:33:04.000Z",
+      "title": "",
+      "url": "",
+      "author": "bfrs",
+      "points": 4,
+      "story_text": null,
+      "comment_text": "I don't know why, but this had me laughing uncontrollably:<p>1983 - Bjarne Stroustrup <i>bolts everything he's ever heard of</i> onto C to create C++.",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3503969,
+      "created_at_i": 1327469584,
+      "_tags": [
+        "comment",
+        "author_bfrs",
+        "story_3503896"
+      ],
+      "objectID": "3508526",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "bfrs",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "I don't know why, but this had me laughing uncontrollably:<p>1983 - Bjarne Stroustrup <i>bolts everything he's ever heard of</i> onto C to create C++.",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T21:33:25.000Z",
+      "title": "",
+      "url": "",
+      "author": "jacquesm",
+      "points": 4,
+      "story_text": null,
+      "comment_text": "As long as it's not a modal one...",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3505979,
+      "created_at_i": 1327440805,
+      "_tags": [
+        "comment",
+        "author_jacquesm",
+        "story_3503896"
+      ],
+      "objectID": "3506924",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "jacquesm",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": "As long as it's not a modal one...",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2012-01-24T17:13:31.000Z",
+      "title": "",
+      "url": "",
+      "author": "Jun8",
+      "points": 4,
+      "story_text": null,
+      "comment_text": ":-) I think some will miss the funny bit about him being the prophet, etc.: Larry Wall is very religious, e.g. that's why it's called \"bless\".",
+      "num_comments": null,
+      "story_id": 3503896,
+      "story_title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+      "story_url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+      "parent_id": 3504429,
+      "created_at_i": 1327425211,
+      "_tags": [
+        "comment",
+        "author_Jun8",
+        "story_3503896"
+      ],
+      "objectID": "3505619",
+      "_highlightResult": {
+        "title": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "Jun8",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "comment_text": {
+          "value": ":-) I think some will miss the funny bit about him being the prophet, etc.: Larry Wall is very religious, e.g. that's why it's called \"bless\".",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_title": {
+          "value": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_url": {
+          "value": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 45,
+  "page": 0,
+  "nbPages": 3,
+  "hitsPerPage": 20,
+  "processingTimeMS": 12,
+  "query": "",
+  "params": "advancedSyntax=true&analytics=false&tags=comment%2Cstory_3503896"
+}
