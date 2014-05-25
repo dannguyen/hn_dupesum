@@ -82,37 +82,38 @@ hits = hits[0..(results_count-1)].map do |hit|
     'hn_url' => "#{BASE_HN_ITEM_URL}#{hsh['objectID']}"
     })
 
-  begin
-    # fetch comments
-    # by default, comments are sorted by points in descending order
-    comment_url = "#{BASE_HN_API_COMMENTS_URL}#{hsh['objectID']}"
-    logger.puts "Fetching top comments via #{comment_url} "
-    comment_hits = open(comment_url){|f| JSON.parse f.read }['hits']
-  rescue => err
-    logger.puts err
-    logger.puts "Skipping comments fetching because of error..."
-  else
-    # now, lets fetch the top comments
-    comment_hits[0..(top_comment_count-1)].each do |c|
+  # fetch comments
+  if hsh['num_comments'].to_i > 0
+    begin
+      # by default, comments are sorted by points in descending order
+      comment_url = "#{BASE_HN_API_COMMENTS_URL}#{hsh['objectID']}"
+      logger.puts "Fetching top comments via #{comment_url} "
+      comment_hits = open(comment_url){|f| JSON.parse f.read }['hits']
+    rescue => err
+      logger.puts err
+      logger.puts "Skipping comments fetching because of error..."
+    else
+      # now, lets fetch the top comments
+      comment_hits[0..(top_comment_count-1)].each do |c|
+        comment = {
+            'author' => c['author'],
+            'comment_text' => c['comment_text'].length > 500 ? c['comment_text'][0..500] << '...' : c['comment_text'],
+            'points' => c['points'],
+            'hn_url' => "#{BASE_HN_ITEM_URL}#{c['objectID']}",
+            'objectID' => c['objectID'],
+          }
+        # strip out simple tags and excess space
+        comment['comment_text'] = comment['comment_text'].gsub(/\<\/?(?:p|i|pre|code|a|a href=".+?" rel="nofollow")\>/, ' ').gsub(/\s+/, ' ').strip
 
-      comment = {
-          'author' => c['author'],
-          'comment_text' => c['comment_text'].length > 500 ? c['comment_text'][0..500] << '...' : c['comment_text'],
-          'points' => c['points'],
-          'hn_url' => "#{BASE_HN_ITEM_URL}#{c['objectID']}",
-          'objectID' => c['objectID'],
-        }
-      # strip out simple tags and excess space
-      comment['comment_text'] = comment['comment_text'].gsub(/\<\/?(?:p|i|pre|code|a|a href=".+?" rel="nofollow")\>/, ' ').gsub(/\s+/, ' ').strip
-
-      hsh['comments']  << comment
+        hsh['comments']  << comment
+      end
     end
   end
 
   hsh
 end
 
-
+############################
 ## print out in HN pretty format
 puts "\n", "============================"
 puts "Stories containing the title of \"#{the_query}\" received: "
