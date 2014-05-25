@@ -39,7 +39,6 @@
 # -  ldubinets [26 points]: *It took me a couple minutes too... The first comment sorts it out though. Turns out that Jacquard's loom was multi-threaded after all.* [https://news.ycombinator.com/item?id=5697144]
 # -  mercuryrising [17 points]: *I like this. I like this a lot. I think far too often people take the concepts we study too seriously. Things get challenging, things get precise, but the moment the humor leaves, the creativity is gone. Think of how easy it would be to learn something if you make a joke every 5 minutes while learning it (about the subject). In your mind, you turned this abstract concept into something else, something funny, something with pathways and connections that weren't expected. You manipulated it, chan...* [https://news.ycombinator.com/item?id=5696773]
 # -  Symmetry [17 points]: *Reminds me of C being described as "a language that combines all the elegance and power of assembly language with all the readability and maintainability of assembly language".* [https://news.ycombinator.com/item?id=5696368]
-# Dans-iMac:hn-summarizer dmac$
 
 
 
