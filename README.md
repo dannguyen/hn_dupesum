@@ -1,15 +1,13 @@
 hn_dupesum
 ==========
 
-A quickie Ruby script to generate a list of HackerNews dupe submissions.
+A quickie Ruby script to generate a list of HackerNews dupe submissions. This was meant to be an exercise of doing everything via the shell but I obviously failed at that...so now it's just an exercise in using Ruby's stdlib to produce plaintext.
 
 This was inspired by [user ColinWright's diligence in pointing out duped-and-previously-discussed discussions](https://news.ycombinator.com/item?id=7796382). Dupes aren't necessarily bad, so this tool's intended use is to quickly find possible previous submissions and produce a HN-friendly aggregated list, so that readers can see what's been previously said.
 
 This obviously is a bare-bones tool, without even proper configuration flags, meant to serve as a simple helper for anyone wanting to list past HN discussions. It wouldn't be very difficult to do something like filter the results list for similar URLs (the [HN-Algolia search API](https://hn.algolia.com/api) only lets you query by search term) so that only true-dupes are selected.
 
-
-
-A typical[summary-of-dupes comment](https://news.ycombinator.com/item?id=7796382) looks like this: 
+A typical [summary-of-dupes comment](https://news.ycombinator.com/item?id=7796382) looks like this: 
 
 ``` markdown
 In case you're wondering why this obviously brilliant article doesn't get much discussion, or many votes, some people here have seen it before. Here are some of the previous submissions:
@@ -60,7 +58,7 @@ The `hn_dupesum` tool merely automates the searching of the story title and prod
 
 ## Installation
 
-I wrote this on my Ruby 2.0 machine but it doesn't use anything outside of Ruby's stdlib. I had hoped to do it via bash script only but my shell skills are weak.
+I wrote this on my Ruby 2.0 machine but it doesn't use anything outside of Ruby's stdlib.
 
 Just download [hn_dupesum.rb](hn_dupesum.rb)
 
