@@ -9,7 +9,7 @@ This obviously is a bare-bones tool, without even proper configuration flags, me
 
 A typical [summary-of-dupes comment](https://news.ycombinator.com/item?id=7796382) looks like this: 
 
-<blockquote>
+```
 In case you're wondering why this obviously brilliant article doesn't get much discussion, or many votes, some people here have seen it before. Here are some of the previous submissions:
 https://hn.algolia.com/?q=brief+incomplete#!/story/forever/p...
 Of course, it may again get lots of discussion and lots of up-votes. We'll see.
@@ -31,11 +31,11 @@ https://news.ycombinator.com/item?id=1475826
 https://news.ycombinator.com/item?id=1327746
 https://news.ycombinator.com/item?id=1310127
 https://news.ycombinator.com/item?id=599164
-</blockquote>
+```
 
 The `hn_dupesum` tool merely automates the searching of the story title and producing the list of dupes, including top comments in the previous discussions:
 
-<blockquote>
+```
 
 ============================
 Stories containing the title of "a brief history of programming" received:
@@ -68,9 +68,7 @@ Top comments:
 -  ldubinets [26 points]: *It took me a couple minutes too... The first comment sorts it out though. Turns out that Jacquard's loom was multi-threaded after all.* [https://news.ycombinator.com/item?id=5697144]
 -  mercuryrising [17 points]: *I like this. I like this a lot. I think far too often people take the concepts we study too seriously. Things get challenging, things get precise, but the moment the humor leaves, the creativity is gone. Think of how easy it would be to learn something if you make a joke every 5 minutes while learning it (about the subject). In your mind, you turned this abstract concept into something else, something funny, something with pathways and connections that weren't expected. You manipulated it, chan...* [https://news.ycombinator.com/item?id=5696773]
 -  Symmetry [17 points]: *Reminds me of C being described as "a language that combines all the elegance and power of assembly language with all the readability and maintainability of assembly language".* [https://news.ycombinator.com/item?id=5696368]
-
-
-</blockquote>
+```
 
 
 
