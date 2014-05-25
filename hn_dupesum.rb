@@ -53,7 +53,7 @@ BASE_HN_API_SEARCH_URL="https://hn.algolia.com/api/v1/search"
 BASE_HN_API_COMMENTS_URL="https://hn.algolia.com/api/v1/search?tags=comment,story_"
 
 the_query = ARGV[0] # TODO: make actual command line tool
-results_count = 3 # TODO: make this a flag
+results_count = 0 # TODO: make this a flag
 top_comment_count = 3 # TODO: make this a flag
 is_verbose = true # TODO: make this a flag
 logger = is_verbose ? STDOUT : StringIO.new
