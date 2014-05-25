@@ -62,7 +62,7 @@ The `hn_dupesum` tool merely automates the searching of the story title and prod
 
 I wrote this on my Ruby 2.0 machine but it doesn't use anything outside of Ruby's stdlib. I had hoped to do it via bash script only but my shell skills are weak.
 
-Just download [hn_dupesum.rb]
+Just download [hn_dupesum.rb](hn_dupesum.rb)
 
 ## Usage
 
